@@ -1,12 +1,13 @@
 # Algorithm Practice
 This repository contains my daily algorithm problem-solving solutions.
+https://leetcode.com/problemset/javascript/
 
-## Day 1: Two Sum
+## Day 1: 1408. String Matching in an Array
 - **Platform**: LeetCode
-- **Problem**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-- **Solution**: [Python Code](python/day1_two_sum.py)
+- **Problem**: Given an array of string words, return all strings in words that is a substring of another word. You can return the answer in any order. A substring is a contiguous sequence of characters within a string
+- **Solution**: [Javascript Code](javascript/day1_1408_string_matching_in_an_array.js)
 
-## Day 2: Reverse String
+## Day #: 
 - **Platform**: LeetCode
-- **Problem**: Write a function that reverses a string.
-- **Solution**: [Python Code](python/day2_reverse_string.py)
+- **Problem**: 
+- **Solution**: [Javascript Code](javascript/)
