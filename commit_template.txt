@@ -1,0 +1,11 @@
+# [2501dd]: [문제 이름] 해결
+#
+# 예시:
+# Day 3: Solve Reverse String problem
+#
+# 설명:
+# - 문제 출처: (LeetCode, Programmers 등)
+# - 풀이 언어: (Python, Java 등)
+# - 주요 아이디어:
+#
+# 참고: 이 줄 아래부터 작성하는 내용은 커밋 메시지에 포함되지 않습니다.
