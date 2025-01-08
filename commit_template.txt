@@ -1,8 +1,6 @@
-[2501dd]: [문제 이름] 해결
-Day 3: Solve Reverse String problem
+[2501dd]: 파일 이름
 
 설명:
 - 문제 출처: LeetCode
 - 풀이 언어: Javascript
-- 주요 아이디어:
-# 참고: 이 줄 아래부터 작성하는 내용은 커밋 메시지에 포함되지 않습니다.
+- 주요 아이디어: startsWith, endWith로 처음과 끝이 맞는지 확인 할 수 있다.

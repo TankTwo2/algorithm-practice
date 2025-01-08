@@ -7,7 +7,7 @@ https://leetcode.com/problemset/javascript/
 - **Problem**: Given an array of string words, return all strings in words that is a substring of another word. You can return the answer in any order. A substring is a contiguous sequence of characters within a string
 - **Solution**: [Javascript Code](javascript/day1_1408_string_matching_in_an_array.js)
 
-## Day #: 
+## Day #: 3042. Count Prefix and Suffix Pairs I
 - **Platform**: LeetCode
-- **Problem**: 
-- **Solution**: [Javascript Code](javascript/)
+- **Problem**: isPrefixAndSuffix(str1, str2) returns true if str1 is both a prefix and a suffix of str2, and false otherwise.
+- **Solution**: [Javascript Code](javascript/day2_3042_count_prefix_and_suffix_pairs_I.js)
