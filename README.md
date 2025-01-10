@@ -16,3 +16,8 @@ https://leetcode.com/problemset/javascript/
 - **Platform**: LeetCode
 - **Problem**: Return the number of strings in words that contain pref as a prefix.
 - **Solution**: [Javascript Code](javascript/day3_2185_counting_words_with_a_given_prefix.js)
+
+## Day 4: 1422. Maximum Score After Splitting a String
+- **Platform**: LeetCode
+- **Problem**: Return the number of strings in words that contain pref as a prefix.
+- **Solution**: [Javascript Code](javascript/day4_1422_maximum_score_after_splitting_a_string.js)
