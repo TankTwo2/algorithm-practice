@@ -27,3 +27,8 @@ https://leetcode.com/problemset/javascript/
 - **Problem**:  Given a string s and an integer k, return true if you can use all the characters in s to construct k palindrome strings or false otherwise.
 문자열 s와 정수 k가 주어지면 s의 모든 문자를 사용하여 k 회문 문자열을 구성할 수 있으면 true를 반환하고 그렇지 않으면 false를 반환합니다.
 - **Solution**: [Javascript Code](javascript/day5_1400_construct_k_palindrome_strings.js)
+
+## Day 6: 2116. Check if a Parentheses String Can Be Valid
+- **Platform**: LeetCode
+- **Problem**:  괄호로 된 string s와, 0과1로 이루어진 string locked가 있다, locked가 1일땐 괄호를 바꿀수 있다. 전부 괄호가 매칭이 되면 true 아니면 false
+- **Solution**: [Javascript Code](javascript/day6_2116_check_if_a_parentheses_string_can_be_valid.js)
