@@ -32,3 +32,8 @@ https://leetcode.com/problemset/javascript/
 - **Platform**: LeetCode
 - **Problem**:  괄호로 된 string s와, 0과1로 이루어진 string locked가 있다, locked가 1일땐 괄호를 바꿀수 있다. 전부 괄호가 매칭이 되면 true 아니면 false
 - **Solution**: [Javascript Code](javascript/day6_2116_check_if_a_parentheses_string_can_be_valid.js)
+
+## Day 7: 476. Number Complement
+- **Platform**: LeetCode
+- **Problem**: 숫자를 2진법으로 바꾸고, 1을 0으로, 0을 1로 변환한 후, 다시 10진법으로 변경하면 끝
+- **Solution**: [Javascript Code](javascript/day7_476_number_complement.js)
